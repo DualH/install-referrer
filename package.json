@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "asd"
+    "url": "https://github.com/DualH/cordova-plugin-installreferrer"
   },
   "author": "Victor Rosano",
   "license": "ISC"
